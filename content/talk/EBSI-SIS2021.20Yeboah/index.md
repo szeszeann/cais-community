@@ -43,6 +43,7 @@ url_video: ""
 #   Otherwise, set `events = []`.
 # projects: ["uwo-workshop"]
 
+# information
 # Enable math on this page?
 math: true
 ---
